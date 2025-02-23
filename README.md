@@ -1,4 +1,4 @@
-### SIMLang
+## SIMLang
 
 A minimal educational programming language compiler stack
 
