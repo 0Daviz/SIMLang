@@ -13,8 +13,8 @@ cd SIMLang
 make main
 
 # Execute compiled binary
-./main
-echo $?  # Should show 42
+./main main.sim
+echo $?  # Should show 42 (let's say inside of main.sim it's return 42;)
 ```
 
 ## 📖 Language Syntax
