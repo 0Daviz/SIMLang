@@ -1,6 +1,6 @@
 ## SIMLang
 
-A minimal educational programming language compiler stack
+A minimal it can't get more minimal then this
 
 ## 🚀 Quick Start
 
@@ -73,3 +73,4 @@ IT'S OVER.
 
 
 IT'S SO OVER.
+Making this README was more pain in the ass then making this simple compiler.
