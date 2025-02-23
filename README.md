@@ -1,6 +1,6 @@
-## SIMLang
+# SIMLang
 
-A minimal it can't get more minimal then this
+A minimal compiler it can't get more minimal then this
 
 ## 🚀 Quick Start
 
